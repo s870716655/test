@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotUI", "BotUI\BotUI.csproj", "{141B0D78-C04B-4A0C-B0B2-E5A659596A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotUI", "BotUI\BotUI.csproj", "{141B0D78-C04B-4A0C-B0B2-E5A659596A65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitfinex.Net", "Bitfinex.Net\Bitfinex.Net.csproj", "{7FEE895B-576C-4A37-B8D9-5169074CA686}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitfinex.Net.UnitTests", "Bitfinex.Net.UnitTests\Bitfinex.Net.UnitTests.csproj", "{9AF177AC-068F-4B23-A201-97161053D09E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEE895B-576C-4A37-B8D9-5169074CA686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEE895B-576C-4A37-B8D9-5169074CA686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEE895B-576C-4A37-B8D9-5169074CA686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEE895B-576C-4A37-B8D9-5169074CA686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF177AC-068F-4B23-A201-97161053D09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF177AC-068F-4B23-A201-97161053D09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF177AC-068F-4B23-A201-97161053D09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF177AC-068F-4B23-A201-97161053D09E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
