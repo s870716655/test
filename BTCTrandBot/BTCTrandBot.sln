@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCTrandBot", "BTCTrandBot\BTCTrandBot.csproj", "{FCF2AC72-0D79-4A75-B0D7-CC6561C0E8E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotUI", "BotUI\BotUI.csproj", "{141B0D78-C04B-4A0C-B0B2-E5A659596A65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FCF2AC72-0D79-4A75-B0D7-CC6561C0E8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCF2AC72-0D79-4A75-B0D7-CC6561C0E8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCF2AC72-0D79-4A75-B0D7-CC6561C0E8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCF2AC72-0D79-4A75-B0D7-CC6561C0E8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141B0D78-C04B-4A0C-B0B2-E5A659596A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
